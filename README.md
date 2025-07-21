@@ -18,7 +18,7 @@ Projects
 
 ---
 
-### 2.Wireshark Netwoerk Traffic Analysis 
+### 2.Wireshark Network Traffic Analysis 
 **Tools Used:** WireShark
 ** Summary:** Captured and analyzed real network traffic to identify securtiy gaps. 
 
